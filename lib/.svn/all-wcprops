@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/498/trunk/lib
+END
+vboxconnector.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/498/trunk/lib/vboxconnector.php
+END
+jqueryFileTree.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/472/trunk/lib/jqueryFileTree.php
+END
+vboxweb-4.2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/408/trunk/lib/vboxweb-4.2.wsdl
+END
+vboxwebService-4.2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/392/trunk/lib/vboxwebService-4.2.wsdl
+END
+utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/470/trunk/lib/utils.php
+END
+authinterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/470/trunk/lib/authinterface.php
+END
+language.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/368/trunk/lib/language.php
+END
+vboxServiceWrappers.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/425/trunk/lib/vboxServiceWrappers.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/498/trunk/lib/ajax.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/497/trunk/lib/config.php
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/499/trunk/panes
+END
+wizardNewVM.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/472/trunk/panes/wizardNewVM.html
+END
+wizardExportAppliance.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/499/trunk/panes/wizardExportAppliance.html
+END
+tabVMDetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/498/trunk/panes/tabVMDetails.html
+END
+guestNetAdapters.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/470/trunk/panes/guestNetAdapters.html
+END
+settingsAudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/421/trunk/panes/settingsAudio.html
+END
+wizardCloneVM.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/472/trunk/panes/wizardCloneVM.html
+END
+wizardNewHD.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/472/trunk/panes/wizardNewHD.html
+END
+topmenu.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/495/trunk/panes/topmenu.html
+END
+settingsPortForwarding.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/494/trunk/panes/settingsPortForwarding.html
+END
+vmmISCSI.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/368/trunk/panes/vmmISCSI.html
+END
+wizardCopyHDAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/421/trunk/panes/wizardCopyHDAdvanced.html
+END
+wizardFirstRun.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/494/trunk/panes/wizardFirstRun.html
+END
+wizardImportApplianceAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/470/trunk/panes/wizardImportApplianceAdvanced.html
+END
+wizardNewVMAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/472/trunk/panes/wizardNewVMAdvanced.html
+END
+wizardExportApplianceAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/499/trunk/panes/wizardExportApplianceAdvanced.html
+END
+settingsParallelPorts.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/421/trunk/panes/settingsParallelPorts.html
+END
+settingsSharedFolders.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/414/trunk/panes/settingsSharedFolders.html
+END
+settingsUSB.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/470/trunk/panes/settingsUSB.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/421/trunk/panes/about.html
+END
+wizardCloneVMAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/472/trunk/panes/wizardCloneVMAdvanced.html
+END
+wizardNewHDAdvanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/472/trunk/panes/wizardNewHDAdvanced.html
+END
+tabVMSnapshots.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/495/trunk/panes/tabVMSnapshots.html
+END
+vmlist.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/495/trunk/panes/vmlist.html
+END
+settingsGlobalGeneral.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/489/trunk/panes/settingsGlobalGeneral.html
+END
+userEdit.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/496/trunk/panes/userEdit.html
+END
+settingsGlobalLanguage.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/369/trunk/panes/settingsGlobalLanguage.html
+END
+settingsStorage.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/495/trunk/panes/settingsStorage.html
+END
+settingsDisplay.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/421/trunk/panes/settingsDisplay.html
+END
+settingsSerialPorts.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/421/trunk/panes/settingsSerialPorts.html
+END
+tabs.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/496/trunk/panes/tabs.html
+END
+settingsGlobalNetwork.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/470/trunk/panes/settingsGlobalNetwork.html
+END
+tabVMConsole.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/498/trunk/panes/tabVMConsole.html
+END
+settingsGeneral.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/489/trunk/panes/settingsGeneral.html
+END
+vmm.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/495/trunk/panes/vmm.html
+END
+vmlistToolbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/499/trunk/panes/vmlistToolbar.html
+END
+settingsGlobalUsers.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/470/trunk/panes/settingsGlobalUsers.html
+END
+settingsSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/498/trunk/panes/settingsSystem.html
+END
+vmmModify.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/411/trunk/panes/vmmModify.html
+END
+wizardCopyHD.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/421/trunk/panes/wizardCopyHD.html
+END
+vmlogs.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/470/trunk/panes/vmlogs.html
+END
+wizardImportAppliance.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/470/trunk/panes/wizardImportAppliance.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/496/trunk/panes/login.html
+END
+settingsNetwork.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/470/trunk/panes/settingsNetwork.html
+END

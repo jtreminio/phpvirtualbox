@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/476/trunk/lib/auth
+END
+OpenMediaVault.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/470/trunk/lib/auth/OpenMediaVault.php
+END
+WebAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/470/trunk/lib/auth/WebAuth.php
+END
+LDAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/476/trunk/lib/auth/LDAP.php
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/476/trunk/lib/auth/ActiveDirectory.php
+END
+Builtin.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/470/trunk/lib/auth/Builtin.php
+END
